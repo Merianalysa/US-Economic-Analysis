@@ -1,1 +1,1 @@
-# US-Economic-Analysis
+# American economic analysis
